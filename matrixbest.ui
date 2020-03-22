@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>754</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>29</x>
+      <y>140</y>
+      <width>710</width>
+      <height>570</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="2">
+      <widget class="QLCDNumber" name="g02"/>
+     </item>
+     <item row="4" column="6">
+      <widget class="QLCDNumber" name="g46"/>
+     </item>
+     <item row="1" column="5">
+      <widget class="QLCDNumber" name="g15"/>
+     </item>
+     <item row="0" column="8">
+      <widget class="QLCDNumber" name="g08"/>
+     </item>
+     <item row="4" column="4">
+      <widget class="QLCDNumber" name="g44"/>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLCDNumber" name="g01"/>
+     </item>
+     <item row="6" column="8">
+      <widget class="QLCDNumber" name="g68"/>
+     </item>
+     <item row="8" column="7">
+      <widget class="QLCDNumber" name="g87"/>
+     </item>
+     <item row="3" column="3">
+      <widget class="QLCDNumber" name="g33"/>
+     </item>
+     <item row="8" column="4">
+      <widget class="QLCDNumber" name="g84"/>
+     </item>
+     <item row="4" column="1">
+      <widget class="QLCDNumber" name="g41"/>
+     </item>
+     <item row="2" column="4">
+      <widget class="QLCDNumber" name="g24"/>
+     </item>
+     <item row="4" column="5">
+      <widget class="QLCDNumber" name="g45"/>
+     </item>
+     <item row="6" column="5">
+      <widget class="QLCDNumber" name="g65"/>
+     </item>
+     <item row="8" column="1">
+      <widget class="QLCDNumber" name="g81"/>
+     </item>
+     <item row="7" column="0">
+      <widget class="QLCDNumber" name="g70"/>
+     </item>
+     <item row="6" column="2">
+      <widget class="QLCDNumber" name="g62"/>
+     </item>
+     <item row="7" column="1">
+      <widget class="QLCDNumber" name="g71"/>
+     </item>
+     <item row="7" column="8">
+      <widget class="QLCDNumber" name="g78"/>
+     </item>
+     <item row="4" column="7">
+      <widget class="QLCDNumber" name="g47"/>
+     </item>
+     <item row="4" column="8">
+      <widget class="QLCDNumber" name="g48"/>
+     </item>
+     <item row="7" column="2">
+      <widget class="QLCDNumber" name="g72"/>
+     </item>
+     <item row="6" column="7">
+      <widget class="QLCDNumber" name="g67"/>
+     </item>
+     <item row="6" column="6">
+      <widget class="QLCDNumber" name="g66"/>
+     </item>
+     <item row="1" column="8">
+      <widget class="QLCDNumber" name="g18"/>
+     </item>
+     <item row="6" column="0">
+      <widget class="QLCDNumber" name="g60"/>
+     </item>
+     <item row="1" column="6">
+      <widget class="QLCDNumber" name="g16"/>
+     </item>
+     <item row="6" column="1">
+      <widget class="QLCDNumber" name="g61"/>
+     </item>
+     <item row="6" column="3">
+      <widget class="QLCDNumber" name="g63"/>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLCDNumber" name="g10"/>
+     </item>
+     <item row="8" column="5">
+      <widget class="QLCDNumber" name="g85"/>
+     </item>
+     <item row="1" column="2">
+      <widget class="QLCDNumber" name="g12"/>
+     </item>
+     <item row="5" column="2">
+      <widget class="QLCDNumber" name="g52"/>
+     </item>
+     <item row="3" column="2">
+      <widget class="QLCDNumber" name="g32"/>
+     </item>
+     <item row="7" column="6">
+      <widget class="QLCDNumber" name="g76"/>
+     </item>
+     <item row="2" column="3">
+      <widget class="QLCDNumber" name="g23"/>
+     </item>
+     <item row="2" column="8">
+      <widget class="QLCDNumber" name="g28"/>
+     </item>
+     <item row="5" column="3">
+      <widget class="QLCDNumber" name="g53"/>
+     </item>
+     <item row="1" column="7">
+      <widget class="QLCDNumber" name="g17"/>
+     </item>
+     <item row="7" column="7">
+      <widget class="QLCDNumber" name="g77"/>
+     </item>
+     <item row="8" column="3">
+      <widget class="QLCDNumber" name="g83"/>
+     </item>
+     <item row="7" column="3">
+      <widget class="QLCDNumber" name="g73"/>
+     </item>
+     <item row="0" column="3">
+      <widget class="QLCDNumber" name="g03"/>
+     </item>
+     <item row="2" column="7">
+      <widget class="QLCDNumber" name="g27"/>
+     </item>
+     <item row="1" column="4">
+      <widget class="QLCDNumber" name="g14"/>
+     </item>
+     <item row="5" column="4">
+      <widget class="QLCDNumber" name="g54"/>
+     </item>
+     <item row="0" column="7">
+      <widget class="QLCDNumber" name="g07"/>
+     </item>
+     <item row="3" column="7">
+      <widget class="QLCDNumber" name="g37"/>
+     </item>
+     <item row="3" column="5">
+      <widget class="QLCDNumber" name="g35"/>
+     </item>
+     <item row="5" column="7">
+      <widget class="QLCDNumber" name="g57"/>
+     </item>
+     <item row="8" column="6">
+      <widget class="QLCDNumber" name="g86"/>
+     </item>
+     <item row="8" column="8">
+      <widget class="QLCDNumber" name="g88"/>
+     </item>
+     <item row="5" column="1">
+      <widget class="QLCDNumber" name="g51"/>
+     </item>
+     <item row="0" column="4">
+      <widget class="QLCDNumber" name="g04"/>
+     </item>
+     <item row="4" column="0">
+      <widget class="QLCDNumber" name="g40"/>
+     </item>
+     <item row="5" column="6">
+      <widget class="QLCDNumber" name="g56"/>
+     </item>
+     <item row="2" column="2">
+      <widget class="QLCDNumber" name="g22"/>
+     </item>
+     <item row="0" column="5">
+      <widget class="QLCDNumber" name="g05"/>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLCDNumber" name="g20"/>
+     </item>
+     <item row="7" column="5">
+      <widget class="QLCDNumber" name="g75"/>
+     </item>
+     <item row="7" column="4">
+      <widget class="QLCDNumber" name="g74"/>
+     </item>
+     <item row="5" column="5">
+      <widget class="QLCDNumber" name="g55"/>
+     </item>
+     <item row="3" column="8">
+      <widget class="QLCDNumber" name="g38"/>
+     </item>
+     <item row="6" column="4">
+      <widget class="QLCDNumber" name="g64"/>
+     </item>
+     <item row="2" column="6">
+      <widget class="QLCDNumber" name="g26"/>
+     </item>
+     <item row="8" column="0">
+      <widget class="QLCDNumber" name="g80"/>
+     </item>
+     <item row="3" column="0">
+      <widget class="QLCDNumber" name="g30"/>
+     </item>
+     <item row="0" column="6">
+      <widget class="QLCDNumber" name="g06"/>
+     </item>
+     <item row="1" column="1">
+      <widget class="QLCDNumber" name="g11"/>
+     </item>
+     <item row="8" column="2">
+      <widget class="QLCDNumber" name="g82"/>
+     </item>
+     <item row="4" column="3">
+      <widget class="QLCDNumber" name="g43"/>
+     </item>
+     <item row="3" column="1">
+      <widget class="QLCDNumber" name="g31"/>
+     </item>
+     <item row="5" column="0">
+      <widget class="QLCDNumber" name="g50"/>
+     </item>
+     <item row="3" column="6">
+      <widget class="QLCDNumber" name="g36"/>
+     </item>
+     <item row="1" column="3">
+      <widget class="QLCDNumber" name="g13"/>
+     </item>
+     <item row="3" column="4">
+      <widget class="QLCDNumber" name="g34"/>
+     </item>
+     <item row="5" column="8">
+      <widget class="QLCDNumber" name="g58"/>
+     </item>
+     <item row="4" column="2">
+      <widget class="QLCDNumber" name="g42"/>
+     </item>
+     <item row="2" column="5">
+      <widget class="QLCDNumber" name="g25"/>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLCDNumber" name="g21"/>
+     </item>
+     <item row="0" column="0">
+      <widget class="QLCDNumber" name="g00"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>411</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>SUDOKU</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>40</y>
+      <width>181</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>SOLVE</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
